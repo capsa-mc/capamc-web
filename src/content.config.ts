@@ -85,7 +85,7 @@ const awardsSchema = z.object({
 
 const newsSchema = z.object({
   title: z.string(),
-  date: z.string(),
+  date: z.coerce.date(),
   location: z.string().optional(),
   excerpt: z.string(),
   image: z.string().optional(),
