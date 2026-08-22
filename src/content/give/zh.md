@@ -13,7 +13,7 @@ methods:
     body: 通过 Zelle 或者 PayPal.Me 在线安全捐助，付款至 finance@capamc.org or
       capamcfinance@gmail.com。
     cta:
-      label: 通过 Zelle/PayPal 捐助
+      label: "通过 Zelle/PayPal 捐助 "
       href: https://www.paypal.com/paypalme/capamc
     accent: jade
   - title: 支票捐助
