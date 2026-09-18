@@ -9,7 +9,7 @@ methods:
       card. Membership powers our advocacy and student programs.
     cta:
       label: Join CAPA-MC
-      href: https://capamc.org/subscription-plan/
+      href: https://forms.gle/fAfKGiyVfht2QPcSA
     accent: seal
   - title: Donate by Zelle (preferable without fees) or PayPal
     body: Give securely online through Zelle or PayPal.Me, Payable to
