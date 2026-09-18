@@ -5,7 +5,7 @@ hero:
   intro: A 501(c)(3) nonprofit serving and advocating for Chinese American
     families across Montgomery County Public Schools.
   primary:
-    label: Join CAPA-MC
+    label: Join CAPA-MC TODAY
     href: https://forms.gle/sEZCWa9REorkb1eP7
   secondary:
     label: Ways to give
