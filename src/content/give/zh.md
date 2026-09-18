@@ -7,7 +7,7 @@ methods:
     body: 投票会员两年会费 30 美元，可通过 PayPal 或信用卡支付。会员的支持推动我们的倡导与学生项目。
     cta:
       label: 加入 CAPA-MC
-      href: https://capamc.org/subscription-plan/
+      href: https://forms.gle/fAfKGiyVfht2QPcSA
     accent: seal
   - title: Zelle (无手续费）/ PayPal 捐助
     body: 通过 Zelle 或者 PayPal.Me 在线安全捐助，付款至 finance@capamc.org or
