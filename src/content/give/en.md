@@ -20,7 +20,7 @@ methods:
     accent: jade
   - title: Donate by check
     body: "Make checks payable to CAPA-MC and mail to: 12774 Wisteria Drive, #115,
-      Germantown, MD 20875."
+      Germantown, MD 20874."
     accent: gold
 ---
 ## Volunteer with us
