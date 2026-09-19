@@ -1,5 +1,5 @@
 ---
-title: Ways to give
+title: Membership Registration & Ways to give
 intro: CAPA-MC is a volunteer-run 501(c)(3) nonprofit. Your membership and gifts
   fund scholarships, student clubs, and advocacy for Chinese American families.
   We accept cash, check, or PayPal.
