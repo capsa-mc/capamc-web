@@ -17,7 +17,7 @@ methods:
       href: https://www.paypal.com/paypalme/capamc
     accent: jade
   - title: 支票捐助
-    body: "支票抬头请写 CAPA-MC，邮寄至：12774 Wisteria Drive, #115, Germantown, MD 20875。"
+    body: "支票抬头请写 CAPA-MC，邮寄至：12774 Wisteria Drive, #115, Germantown, MD 20874。"
     accent: gold
 ---
 ## 成为志愿者
