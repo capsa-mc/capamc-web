@@ -8,7 +8,7 @@ methods:
     body: Voting membership is a $30 fee for two years, payable by PayPal or credit
       card. Membership powers our advocacy and student programs.
     cta:
-      label: Join CAPA-MC TODAY!
+      label: Join CAPA-MC
       href: https://forms.gle/fAfKGiyVfht2QPcSA
     accent: seal
   - title: Donate by Zelle (preferable without fees) or PayPal
