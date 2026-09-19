@@ -78,7 +78,7 @@ content:
     fields: *proseFields
 
   - name: give-en
-    label: "支持我们 — English"
+    label: "加入和支持我们 — English"
     type: file
     path: src/content/give/en.md
     fields: &giveFields
@@ -101,7 +101,7 @@ content:
               values: [seal, jade, gold]
       - { name: body, label: "正文（志愿者段落）", type: rich-text }
   - name: give-zh
-    label: "支持我们 — 中文"
+    label: "加入和支持我们 — 中文"
     type: file
     path: src/content/give/zh.md
     fields: *giveFields
