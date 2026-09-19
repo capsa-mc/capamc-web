@@ -165,10 +165,10 @@ content:
     path: src/content/news/en
     filename: "{title}.md"
     fields: &newsFields
-      - { name: title, type: string }
-      - { name: date, type: date }
+      - { name: title, type: string, required: true }
+      - { name: date, type: date, required: true }
       - { name: location, type: string }
-      - { name: excerpt, type: text }
+      - { name: excerpt, type: text, required: true }
       - { name: image, type: image }
       - { name: imageAlt, type: string }
       - { name: body, label: "正文", type: rich-text }

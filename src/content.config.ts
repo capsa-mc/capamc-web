@@ -85,7 +85,13 @@ const awardsSchema = z.object({
 
 const newsSchema = z.object({
   title: z.string(),
-  date: z.string(),
+  // Pages CMS's date picker writes an unquoted YAML date, which YAML parses
+  // as a Date object instead of a string, so accept both.
+  date: z
+    .union([z.string(), z.date()])
+    .transform((value) =>
+      value instanceof Date ? value.toISOString().slice(0, 10) : value,
+    ),
   location: z.string().optional(),
   excerpt: z.string(),
   image: z.string().optional(),
