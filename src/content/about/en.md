@@ -1,10 +1,11 @@
 ---
-title: "About us"
-intro: "The Chinese American Parent Association of Montgomery County (CAPA-MC) was founded in 2016 as a 501(c)(3) nonprofit serving and advocating for Chinese American families in Montgomery County."
-image: "/images/about.png"
-imageAlt: "CAPA-MC board members and volunteers"
+title: About us
+intro: The Chinese American Parent Association of Montgomery County (CAPA-MC)
+  was founded in 2016 as a 501(c)(3) nonprofit serving and advocating for
+  Chinese American families in Montgomery County.
+image: /images/about.png
+imageAlt: CAPA-MC board members and volunteers
 ---
-
 ## Our mission
 
 Our objective is to promote Chinese American parent involvement in school
@@ -19,6 +20,10 @@ children while navigating language, cultural, communication, and institutional
 barriers.
 
 ## Board of Directors and Officers
+
+### 2026–2028**Officers:** President — Jingfeng Huang · Vice Presidents — Linghui Li, Zhen Yuan ·
+
+Treasurer — Wendy Tong · Secretary — Tingmei Chau **Board Members:** Jane Zhang, Vivian Xu, Caixia Long, Hongbin Yu, Jingfeng Huang, Yue Wang, Jianghong Gu
 
 ### 2024–2026
 
