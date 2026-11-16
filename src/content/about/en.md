@@ -21,9 +21,13 @@ barriers.
 
 ## Board of Directors and Officers
 
-### 2026–2028**Officers:** President — Jingfeng Huang · Vice Presidents — Linghui Li, Zhen Yuan ·
+### 2026–2028
 
-Treasurer — Wendy Tong · Secretary — Tingmei Chau **Board Members:** Jane Zhang, Vivian Xu, Caixia Long, Hongbin Yu, Jingfeng Huang, Yue Wang, Jianghong Gu
+**Officers:** President — Jingfeng Huang · Vice Presidents — Linghui Li, Zhen Yuan ·
+
+Treasurer — Wendy Tong · Secretary — Tingmei Chau 
+
+**Board Members:** Jane Zhang, Vivian Xu, Caixia Long, Hongbin Yu, Jingfeng Huang, Yue Wang, Jianghong Gu
 
 ### 2024–2026
 
