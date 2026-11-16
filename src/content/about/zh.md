@@ -1,10 +1,9 @@
 ---
-title: "关于我们"
-intro: "蒙郡华裔家长联合会（CAPA-MC）成立于 2016 年，是一家 501(c)(3) 非营利组织，服务并倡导蒙哥马利郡的华裔家庭。"
-image: "/images/about.png"
-imageAlt: "CAPA-MC 理事会成员与志愿者"
+title: 关于我们
+intro: 蒙郡华裔家长联合会（CAPA-MC）成立于 2016 年，是一家 501(c)(3) 非营利组织，服务并倡导蒙哥马利郡的华裔家庭。
+image: /images/about.png
+imageAlt: CAPA-MC 理事会成员与志愿者
 ---
-
 ## 我们的使命
 
 我们的宗旨是促进华裔家长参与学校社区、为我们的学生和家长（他们往往是第一代移民）发声，
@@ -15,6 +14,12 @@ imageAlt: "CAPA-MC 理事会成员与志愿者"
 创造更好的机会。
 
 ## 理事会与执行团队
+
+### 2026–2028
+
+**执行团队:** President — Jingfeng Huang · Vice Presidents — Linghui Li, Zhen Yuan ·Treasurer — Wendy Tong · Secretary — Tingmei Chau 
+
+**理事:** Jane Zhang, Vivian Xu, Caixia Long, Hongbin Yu, Jingfeng Huang, Yue Wang, Jianghong Gu
 
 ### 2024–2026
 
