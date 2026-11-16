@@ -19,8 +19,8 @@ methods:
       href: https://www.paypal.com/paypalme/capamc
     accent: jade
   - title: Donate by check
-    body: "Make checks payable to CAPA-MC and mail to: 12774 Wisteria Drive, #115,
-      Germantown, MD 20874."
+    body: "Make checks payable to CAPA-MC and mail to: Unit 26, 401 N Washington
+      St., 6th Floor Localworks, Rockville, MD 20850"
     accent: gold
 ---
 ## Volunteer with us
