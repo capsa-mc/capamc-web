@@ -7,45 +7,54 @@ items:
     description: Founded in 1988, CAPSA supports the Chinese American community by
       promoting cross-cultural understanding and assisting new immigrant
       families in Montgomery County's educational system.
+    image: /images/uploads/69e1c2477b2268ab2d6187c4d410b8c4.jpg
     link: https://www.capsa-mc.org/
   - name: Growing & Giving Club (G&G)
     category: Service
     description: Dedicated to serving the community through organic gardening and
       helping those in need while promoting eco-friendly practices.
+    image: /images/uploads/86790793a794cd4c0821cac7fb81d578 (1).jpg
     link: https://sites.google.com/view/capa-mcggc/
   - name: Junior Reporter Club (JRC)
     category: Journalism
     description: A group of second-generation Chinese Americans who aim to make a
       positive difference in the Chinese American community through journalism.
+    image: /images/uploads/IMG_4361-1.jpg
     link: https://jrc.capamc.org/
   - name: IT Club
     category: Technology
     description: Provides free, high-quality IT services to local clubs and organizations.
+    image: /images/uploads/bf9456e5fbdbfdf118c9cac173a11439.jpg
     link: https://capamc.org/?page_id=420
   - name: iTeach Club
     category: Education
     description: Delivers weekly online English lessons to seniors, having served
       over 120 participants.
+    image: /images/uploads/iTeach Club-2.png
     link: https://www.iteachcapa.org/
   - name: iHear Program
     category: Inclusion
     description: Dedicated to innovation, language learning, and promoting
       communication inclusivity, supporting students with hearing impairments.
+    image: /images/uploads/12iHear-1.png
     link: https://ihearus.org
   - name: Special Education Equal Development Society (SEEDS)
     category: Advocacy
     description: A student-led disability awareness initiative focused on increasing
       opportunities for special education students.
+    image: /images/uploads/22c8887e7561094169889e1567f682d8-1.jpg
     link: https://www.seedstogether.org
   - name: Run and Hit Tennis Club (RHTC)
     category: Sports
     description: A student-run sports club hosting tennis sessions to improve skills
       and promote the sport.
+    image: /images/uploads/IMG_1081.jpg
     link: https://capamc.org/?page_id=845
   - name: THRIVE Club
     category: Wellness
     description: Promotes overall well-being through resilience and healthy living
       practices.
+    image: /images/uploads/THRIVE Together Logo-1.png
     link: http://thrive.capamc.org
   - name: Youth Volleyball and Basketball Club
     category: Sports
@@ -54,34 +63,44 @@ items:
   - name: Youth Service Club
     category: Service
     description: Hosts seminars, food drives, and community service initiatives.
+    image: /images/uploads/2024_Blackhill Trash Pick Up_8-25-2024.jpg
     link: https://capamc.org/youth-service-club/
   - name: Maryland Youth Wushu Club
     category: Culture
     description: Teaches martial arts classes and promotes Chinese culture.
+    image: /images/uploads/MYWC Banner updated (1)-1.png
   - name: CAPA Youth Running Club
     category: Sports
     description: Organizes weekly Sunday running sessions promoting healthy lifestyles.
+    image: /images/uploads/14running-3.png
   - name: Music Angels Club
     category: Music
     description: Performs at senior centers and community events, highlighting the
       healing power of music.
+    image: /images/uploads/Music Angels-2026.jpg
+    link: https://www.instagram.com/musicangelscapa/
   - name: Hearts of Comfort
     category: Service
     description: Provides handmade heart pillows to patients and seniors, offering
       comfort, support, and care.
+    image: /images/uploads/b8e490f29a2ee7a7ae8b25d8aab7e564-1.jpeg
     link: https://heartsofcomfort.org
   - name: SMILE - Smart Moves for Inclusive Learning
     category: Service
     description: "SMILE promotes inclusive learning through chess and other table
       games in the community. "
+    image: /images/uploads/17SMILE (1).png
   - name: Zaidao
     category: Service
     description: "Zaidao organizes Chinese Culture Writing and Composition
       Competition and participates actively in the annual Chinese Cultural
       Festival in DC. Zaidao promotes Chinese culture and Chinese writing in the
       community, and the cultural communication in the local communities. "
+    image: /images/uploads/IMG_2247_large.jpgZAI DAO-1.jpg
+    link: http://thez.us/
   - name: Open Hands Outreach
     category: Service
     description: Open Hands Outreach is a club that makes handmade and homemade
       little toys and gifts for homeless shelters that brings love, hope and
       care to people who need help
+    image: /images/uploads/df11862c3042fae728db9d9b4395fd7f-1.jpg
