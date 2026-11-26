@@ -13,7 +13,7 @@ hero:
   imageAlt: CAPA-MC 家庭与学生在社区活动中
 slides:
   - title: 社区
-    image: /images/photo-community.jpg
+    image: /images/uploads/2026 Dr. Alen Cheung Scholarship Recipients.png
     imageAlt: CAPA-MC 家庭齐聚社区活动
   - title: 倡导
     image: /images/photo-advocacy.jpg
