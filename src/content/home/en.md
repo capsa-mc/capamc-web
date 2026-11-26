@@ -10,7 +10,7 @@ hero:
   secondary:
     label: Ways to give
     href: /en/give
-  image: /images/photo-community.jpg
+  image: /images/uploads/CAPA Donation 2026 Flyer Edit-1.png
   imageAlt: CAPA-MC families and students at a community event
 slides:
   - title: Community
